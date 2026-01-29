@@ -1,5 +1,5 @@
 # HARGS: Hierarchical Adaptive Reasoning and Generation System
-
+EDGE DEPLOYABLE!! 
 A novel AI architecture that achieves 50-1000× speedup over traditional agentic LLMs while maintaining 84% comparable quality through hierarchical tokenization, split-half negation diffusion, usage-weighted discrimination, monarch-driven coordination, adaptive exploration, and integrated symbolic-neural reasoning.
 
 ## Architecture Overview
